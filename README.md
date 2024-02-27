@@ -17,7 +17,7 @@ This is a simple traffic light simulation implemented using HTML, CSS, and JavaS
    - The "Green" button turns on the green light.
 3. Click on the "Reset" button to return the traffic light to its initial state.
 
-##Video Explanation Link
+## Video Explanation Link
 
 1. Link https://drive.google.com/file/d/126VraOThHGFdUeRKVg2x_Zv_TtJveOyP/view?usp=share_link
 
